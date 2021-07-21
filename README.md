@@ -13,7 +13,7 @@ Reading list for multimodal sequence learning
   * [Analysis of Multimodal Models](#analysis-of-multimodal-models)    
   * [Multimodal Pretraining](#multimodal-pretraining)
   * [Self-supervised Learning](#self-supervised-learning)
-  * [Generative Multimodal Models](#generative-multimodal-learning)
+  * [Generative Multimodal Models](#generative-multimodal-models)
   * [Multimodal Adversarial Attacks](#multimodal-adversarial-attacks)
 * [Datasets](#datasets)  
 * [Tutorials](#tutorials)
