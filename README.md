@@ -45,7 +45,7 @@ Reading list for multimodal sequence learning
 
 ### Generative Multimodal Models
 
-### Multimodal Adversarial Attack
+### Multimodal Adversarial Attacks
 
 
 
