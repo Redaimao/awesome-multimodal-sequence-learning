@@ -166,6 +166,7 @@ Reading list for multimodal sequence learning
 
 ### Analysis of Multimodal Models
 
+[Generic Attention-model Explainability for InterpretingBi-Modal and Encoder-Decoder Transformers](https://arxiv.org/abs/2103.15679), ICCV 2021, [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability)
 
 [Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!](https://arxiv.org/abs/2010.06572), EMNLP 2020
 
@@ -174,7 +175,6 @@ Reading list for multimodal sequence learning
 [Blindfold Baselines for Embodied QA](https://arxiv.org/abs/1811.05013), NIPS 2018 Visually-Grounded Interaction and Language Workshop
 
 [Analyzing the Behavior of Visual Question Answering Models](https://arxiv.org/abs/1606.07356), EMNLP 2016
-
 
 ### Multimodal Pretraining
 
