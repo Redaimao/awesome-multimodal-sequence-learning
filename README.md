@@ -114,7 +114,7 @@ Reading list for multimodal sequence learning
 
 ### Multimodal Fusion
 
-[Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning](https://openreview.net/pdf?id=n1HD8M6WGn), ICLR 2021
+[Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning](https://openreview.net/pdf?id=n1HD8M6WGn), ICLR 2021, [[code]](https://github.com/SunbowLiu/SurfaceFusion)
 
 [Cross-Attentional Audio-Visual Fusion for Weakly-Supervised Action Localization](https://openreview.net/pdf?id=hWr3e3r-oH5), ICLR 2021
 
