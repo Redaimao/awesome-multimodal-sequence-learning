@@ -113,8 +113,9 @@ Reading list for multimodal sequence learning
 
 
 ### Multimodal Fusion
+[Contrastive Multimodal Fusion with TupleInfoNCE](https://arxiv.org/abs/2107.02575), ArXiv 2021
 
-[Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning](https://openreview.net/pdf?id=n1HD8M6WGn), ICLR 2021, [[code]](https://github.com/SunbowLiu/SurfaceFusion)
+[Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning](https://openreview.net/pdf?id=n1HD8M6WGn), ICLR 2021, [[e]](https://github.com/SunbowLiu/SurfaceFusion)
 
 [Cross-Attentional Audio-Visual Fusion for Weakly-Supervised Action Localization](https://openreview.net/pdf?id=hWr3e3r-oH5), ICLR 2021
 
@@ -212,6 +213,8 @@ Reading list for multimodal sequence learning
 
 ### Self-supervised Learning
 
+[VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](https://arxiv.org/abs/2104.11178), arXiv 2021, [[code]](https://paperswithcode.com/paper/vatt-transformers-for-multimodal-self#code)
+
 [Self-supervised Representation Learning with Relative Predictive Coding](https://openreview.net/pdf?id=068E_JSq9O), ICLR 2021
 
 [Exploring Balanced Feature Spaces for Representation Learning](https://openreview.net/pdf?id=OqtLIabPTit), ICLR 2021
@@ -301,5 +304,6 @@ Reading list for multimodal sequence learning
 
 [CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French](https://www.aclweb.org/anthology/2020.emnlp-main.141.pdf), EMNLP 2020 
 
+YouTube-8: [Predicting Emotions in User-Generated Videos](http://www.yugangjiang.info/publication/aaai14-emotions.pdf), [[download]](https://drive.google.com/folderview?id=0B5peJ1MHnIWGd3pFbzMyTG5BSGs&usp=sharing), [[webpage]](http://www.yugangjiang.info/research/VideoEmotions/index.html)
 
 ## Tutorials
