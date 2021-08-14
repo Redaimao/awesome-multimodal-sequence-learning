@@ -34,6 +34,8 @@ Reading list for multimodal sequence learning
 
 ### Representation Learning
 
+[Multimodal Contrastive Training for Visual Representation Learning](http://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Multimodal_Contrastive_Training_for_Visual_Representation_Learning_CVPR_2021_paper.html), CVPR 2021
+
 [Parameter Efficient Multimodal Transformers for Video Representation Learning](https://openreview.net/pdf?id=6UdQLhqJyFD), ICLR 2021
 
 [Viewmaker Networks: Learning Views for Unsupervised Representation Learning](https://openreview.net/pdf?id=enoVQWLsfyL), ICLR 2021, [[code]](//github.com/alextamkin/viewmaker)
