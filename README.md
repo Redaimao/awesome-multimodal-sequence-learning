@@ -62,7 +62,9 @@ Reading list for multimodal sequence learning
 [Watching the World Go By: Representation Learning from Unlabeled Videos](https://arxiv.org/abs/2003.07990), arXiv 2020
 
 
+[Contrastive Multiview Coding](http://arxiv.org/abs/1906.05849), arXiv 2019 [[code]](https://github.com/HobbitLong/CMC/)
 
+[Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf), arXiv 2019 [[code]](https://github.com/jefflai108/Contrastive-Predictive-Coding-PyTorch)
 
 [Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations](https://arxiv.org/abs/1910.00058), EMNLP 2019
 
