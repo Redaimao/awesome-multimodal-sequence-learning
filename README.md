@@ -17,7 +17,7 @@ Reading list for multimodal sequence learning
   * [Sentiment and Emotion Analysis](#sentiment-and-emotion-analysis)
   * [Trajectory and Motion Forecasting](#trajectory-and-motion-forecasting)
 * [Datasets](#datasets)  
-* [Tutorials](#tutorials)
+* [Tutorials and blogs](#tutorials-and-blogs)
 
 ## Survey Papers
 
@@ -61,8 +61,8 @@ Reading list for multimodal sequence learning
 
 [Watching the World Go By: Representation Learning from Unlabeled Videos](https://arxiv.org/abs/2003.07990), arXiv 2020
 
+[Contrastive Multiview Coding](http://arxiv.org/abs/1906.05849), ECCV 2020 [[code]](https://github.com/HobbitLong/CMC/)
 
-[Contrastive Multiview Coding](http://arxiv.org/abs/1906.05849), arXiv 2019 [[code]](https://github.com/HobbitLong/CMC/)
 
 [Representation Learning with Contrastive Predictive Coding](https://arxiv.org/pdf/1807.03748.pdf), arXiv 2019 [[code]](https://github.com/jefflai108/Contrastive-Predictive-Coding-PyTorch)
 
@@ -117,6 +117,8 @@ Reading list for multimodal sequence learning
 
 
 ### Multimodal Fusion
+[Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/pdf/2107.00135), ArXiv 2021
+
 [Contrastive Multimodal Fusion with TupleInfoNCE](https://arxiv.org/abs/2107.02575), ArXiv 2021
 
 [Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning](https://openreview.net/pdf?id=n1HD8M6WGn), ICLR 2021, [[e]](https://github.com/SunbowLiu/SurfaceFusion)
@@ -237,6 +239,11 @@ Reading list for multimodal sequence learning
 
 [Multimodal Dynamics : Self-supervised Learning in Perceptual and Motor Systems](https://dl.acm.org/citation.cfm?id=1269207), 2016
 
+[Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882), NeurIPS 2020, [[code]](https://github.com/facebookresearch/swav)
+
+[Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](http://proceedings.mlr.press/v119/wang20k/wang20k.pdf), PMLR 2020, [[code]](https://github.com/SsnL/align_uniform)
+
+[Self-Supervised Learning by Cross-Modal Audio-Video Clustering](https://arxiv.org/pdf/1911.12667.pdf), NeurIPS 2020, [[code]](https://github.com/HumamAlwassel/XDC)
 
 ### Generative Multimodal Models
 
@@ -310,4 +317,11 @@ Reading list for multimodal sequence learning
 
 YouTube-8: [Predicting Emotions in User-Generated Videos](http://www.yugangjiang.info/publication/aaai14-emotions.pdf), [[download]](https://drive.google.com/folderview?id=0B5peJ1MHnIWGd3pFbzMyTG5BSGs&usp=sharing), [[webpage]](http://www.yugangjiang.info/research/VideoEmotions/index.html)
 
-## Tutorials
+LAION: [LAION-400M](https://laion.ai/laion-400-open-dataset/)
+
+
+## Tutorials and blogs
+
+[Deep learning 2021 - NYU](https://atcold.github.io/NYU-DLSP21/)
+[Blog-lilianweng](https://lilianweng.github.io/lil-log/)
+[SSL-paper list](https://github.com/jason718/awesome-self-supervised-learning)
