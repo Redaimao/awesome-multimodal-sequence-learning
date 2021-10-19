@@ -248,6 +248,10 @@ Reading list for multimodal sequence learning
 
 [Self-Supervised Learning by Cross-Modal Audio-Video Clustering](https://arxiv.org/pdf/1911.12667.pdf), NeurIPS 2020, [[code]](https://github.com/HumamAlwassel/XDC)
 
+[Improving Contrastive Learning by Visualizing Feature Transformation](https://arxiv.org/abs/2108.02982), ICCV 2021, [[code]](https://github.com/DTennant/CL-Visualizing-Feature-Transformation)
+
+
+
 ### Generative Multimodal Models
 
 [Relating by Contrasting: A Data-efficient Framework for Multimodal Generative Models](https://openreview.net/pdf?id=vhKe9UFbrJo), ICLR 2021
