@@ -34,6 +34,7 @@ Reading list for multimodal sequence learning
 
 ### Representation Learning
 
+[MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502), NeurlPS 2021, [[code]](https://github.com/pliang279/MultiBench)
 
 [CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations](https://arxiv.org/pdf/2109.14910), ICCV 2021
 
@@ -120,6 +121,7 @@ Reading list for multimodal sequence learning
 
 
 ### Multimodal Fusion
+
 [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/pdf/2107.00135), ArXiv 2021
 
 [Contrastive Multimodal Fusion with TupleInfoNCE](https://arxiv.org/abs/2107.02575), ArXiv 2021
