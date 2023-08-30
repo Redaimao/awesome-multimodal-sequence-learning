@@ -13,6 +13,7 @@ Reading list for multimodal sequence learning
   * [Self-supervised Learning](#self-supervised-learning)
   * [Generative Multimodal Models](#generative-multimodal-models)
   * [Multimodal Adversarial Attacks](#multimodal-adversarial-attacks)
+  * [Multimodal Reasoning](#multimodal-reasoning)
 * [Research Tasks](#research-tasks)   
   * [Sentiment and Emotion Analysis](#sentiment-and-emotion-analysis)
   * [Trajectory and Motion Forecasting](#trajectory-and-motion-forecasting)
@@ -33,6 +34,14 @@ Reading list for multimodal sequence learning
 ## Research Areas
 
 ### Representation Learning
+
+[Robustness in Multimodal Learning under Train-Test Modality Mismatch](http://proceedings.mlr.press/v202/mckinzie23a/mckinzie23a.pdf)
+
+[Calibrating Multimodal Learning](https://arxiv.org/pdf/2306.01265), ICML 2023
+
+[Learning Multimodal Data Augmentation in Feature Space](https://openreview.net/pdf?id=6SRDbbvU8s), ICLR 2023
+
+[Multimodal Federated Learning via Contrastive Representation Ensemble](https://openreview.net/pdf?id=Hnk1WRMAYqg), ICLR 2023
 
 [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502), NeurlPS 2021, [[code]](https://github.com/pliang279/MultiBench)
 
@@ -122,6 +131,8 @@ Reading list for multimodal sequence learning
 
 ### Multimodal Fusion
 
+[Provable Dynamic Fusion for Low-Quality Multimodal Data](http://proceedings.mlr.press/v202/zhang23ar/zhang23ar.pdf), ICML 2023, [[code]](https://github.com/QingyangZhang/QMF)
+
 [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/pdf/2107.00135), ArXiv 2021
 
 [Contrastive Multimodal Fusion with TupleInfoNCE](https://arxiv.org/abs/2107.02575), ArXiv 2021
@@ -178,6 +189,16 @@ Reading list for multimodal sequence learning
 
 ### Analysis of Multimodal Models
 
+[The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation](https://openreview.net/pdf?id=w0QXrZ3N-s), ICLR 2023 [[code]](https://zihuixue.github.io/MFH/index.html)
+
+[Post-hoc Concept Bottleneck Models](https://openreview.net/pdf?id=nA5AZ8CEyow), ICLR 2023, [[code]](https://github.com/mertyg/post-hoc-cbm)
+
+[CLIP-Dissect: Automatic Description of Neuron Representations in Deep Vision Networks](https://openreview.net/pdf?id=iPWiwWHc1V), ICLR 2023, [[code]](https://github.com/Trustworthy-ML-Lab/CLIP-dissect)
+
+[Identifiability Results for Multimodal Contrastive Learning](https://openreview.net/pdf?id=U_2kuqoTcB), ICLR 2023 [[code]](https://github.com/imantdaunhawer/multimodal-contrastive-learning)
+
+[MultiViz: Towards Visualizing and Understanding Multimodal Models](https://arxiv.org/abs/2207.00056), ICLR 2023 [[code]](https://github.com/pliang279/MultiViz)
+
 [Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers](https://arxiv.org/abs/2103.15679), ICCV 2021, [[code]](https://github.com/hila-chefer/Transformer-MM-Explainability)
 
 [Does my multimodal model learn cross-modal interactions? It’s harder to tell than you might think!](https://arxiv.org/abs/2010.06572), EMNLP 2020
@@ -190,9 +211,15 @@ Reading list for multimodal sequence learning
 
 ### Multimodal Pretraining
 
-[Multi-stage Pre-training over Simplified Multimodal Pre-training Models](), ACL 2021
+[PaLI: A Jointly-Scaled Multilingual Language-Image Model](https://openreview.net/pdf?id=mWVoBz4W0u), ICLR 2023
 
-[Integrating Multimodal Information in Large Pretrained Transformers](), ACL 2020
+[HiCLIP: Contrastive Language-Image Pretraining with Hierarchy-aware Attention](https://openreview.net/pdf?id=0eTTKOOOQkV), ICLR 2023 [[code]](https://github.com/jeykigung/HiCLIP)
+
+[Composing Ensembles of Pre-trained Models via Iterative Consensus](https://openreview.net/pdf?id=gmwDKo-4cY)
+
+[Multi-stage Pre-training over Simplified Multimodal Pre-training Models](https://arxiv.org/pdf/2107.14596), ACL 2021
+
+[Integrating Multimodal Information in Large Pretrained Transformers](http://www.pir.hoques.com/Publications/2020/2020-Rahman-et-al-ACL.pdf), ACL 2020
 
 [Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/abs/2102.06183), CVPR 2021 [[code]](https://github.com/jayleicn/ClipBERT)
 
@@ -256,6 +283,20 @@ Reading list for multimodal sequence learning
 
 ### Generative Multimodal Models
 
+[Grounding Language Models to Images for Multimodal Inputs and Outputs](http://proceedings.mlr.press/v202/koh23a/koh23a.pdf), ICML 2023 [[code]](https://github.com/kohjingyu/fromage)
+
+[Retrieval-Augmented Multimodal Language Modeling](http://proceedings.mlr.press/v202/yasunaga23a/yasunaga23a.pdf), ICML 2023 [[webpage]](https://cs.stanford.edu/~myasu/blog/racm3/)
+
+[Make-A-Video: Text-to-Video Generation without Text-Video Data](https://openreview.net/pdf?id=nJfylDvgzlq), ICLR 2023 [[website]](https://makeavideo.studio/)
+
+[Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation](https://openreview.net/pdf?id=1-MBdJssZ-S), ICLR 2023 [[code]](https://github.com/L-YeZhu/CDCD)
+
+[Unified Discrete Diffusion for Simultaneous Vision-Language Generation](https://openreview.net/pdf?id=8JqINxA-2a), ICLR 2023 [[code]](https://github.com/mhh0318/UniD3)
+
+[MMVAE+: Enhancing the Generative Quality of Multimodal VAEs without Compromises](https://openreview.net/pdf?id=sdQGxouELX), ICLR 2023
+
+[MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruan_MM-Diffusion_Learning_Multi-Modal_Diffusion_Models_for_Joint_Audio_and_Video_CVPR_2023_paper.pdf), CVPR 2023 [[code]](https://github.com/researchmm/MM-Diffusion)
+
 [Relating by Contrasting: A Data-efficient Framework for Multimodal Generative Models](https://openreview.net/pdf?id=vhKe9UFbrJo), ICLR 2021
 
 [Generalized Multimodal ELBO](https://openreview.net/pdf?id=5Y21V0RDBV), ICLR 2021
@@ -273,6 +314,7 @@ Reading list for multimodal sequence learning
 
 ### Multimodal Adversarial Attacks
 
+[Data Poisoning Attacks Against Multimodal Encoders](http://proceedings.mlr.press/v202/yang23f/yang23f.pdf), ICML 2023 [[code]](https://github.com/zqypku/mm_poison/)
 
 [Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models](https://nips2018vigil.github.io/static/papers/accepted/33.pdf), NeurIPS Workshop on Visually Grounded Interaction and Language 2018
 
@@ -280,6 +322,11 @@ Reading list for multimodal sequence learning
 
 [Fooling Vision and Language Models Despite Localization and Attention Mechanism](https://arxiv.org/abs/1709.08693), CVPR 2018
 
+### Multimodal Reasoning
+
+[Multimodal Analogical Reasoning over Knowledge Graphs](https://openreview.net/pdf?id=NRHajbzg8y0P), ICLR 2023 [[code]](https://github.com/zjunlp/MKG_Analogy)
+
+[Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://openreview.net/pdf?id=G2Q2Mh3avow), ICLR 2023 [[code]](https://socraticmodels.github.io/#code)
 
 ## Research Tasks
 
@@ -314,7 +361,9 @@ Reading list for multimodal sequence learning
 
 ## Datasets
 
-[MultiMET: A Multimodal Dataset for Metaphor Understanding](), ACL 2021
+[An Extensible Multi-modal Multi-task Object Dataset with Materials](https://openreview.net/pdf?id=n70oyIlS4g), ICLR 2023 [[download]](https://emma.stanford.edu/)
+
+[comment]: <> ([MultiMET: A Multimodal Dataset for Metaphor Understanding]&#40;https://aclanthology.org/2021.acl-long.249.pdf&#41;, ACL 2021 [[download]])
 
 [A Large-Scale Chinese Multimodal NER Dataset with Speech Clues](), ACL 2021
 
@@ -322,7 +371,7 @@ Reading list for multimodal sequence learning
 
 [CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality](https://www.aclweb.org/anthology/2020.acl-main.343.pdf), ACl 2020, [[code]](https://github.com/thuiar/MMSA)
 
-[CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French](https://www.aclweb.org/anthology/2020.emnlp-main.141.pdf), EMNLP 2020 
+[CMU-MOSEAS: A Multimodal Language Dataset for Spanish, Portuguese, German and French](https://www.aclweb.org/anthology/2020.emnlp-main.141.pdf), EMNLP 2020 [[download]](https://bit.ly/2Svbg9f)
 
 YouTube-8: [Predicting Emotions in User-Generated Videos](http://www.yugangjiang.info/publication/aaai14-emotions.pdf), [[download]](https://drive.google.com/folderview?id=0B5peJ1MHnIWGd3pFbzMyTG5BSGs&usp=sharing), [[webpage]](http://www.yugangjiang.info/research/VideoEmotions/index.html)
 
@@ -332,5 +381,7 @@ LAION: [LAION-400M](https://laion.ai/laion-400-open-dataset/)
 ## Tutorials and blogs
 
 [Deep learning 2021 - NYU](https://atcold.github.io/NYU-DLSP21/)
+
 [Blog-lilianweng](https://lilianweng.github.io/lil-log/)
+
 [SSL-paper list](https://github.com/jason718/awesome-self-supervised-learning)
