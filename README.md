@@ -133,6 +133,12 @@ Reading list for multimodal sequence learning
 
 [Provable Dynamic Fusion for Low-Quality Multimodal Data](http://proceedings.mlr.press/v202/zhang23ar/zhang23ar.pdf), ICML 2023, [[code]](https://github.com/QingyangZhang/QMF)
 
+[Deep multimodal sequence fusion by regularized expressive representation distillation](https://ieeexplore.ieee.org/abstract/document/9681296), TMM 2022, [[code]](https://github.com/Redaimao/RERD)
+
+[Pace-adaptive and Noise-resistant Contrastive Learning for Multimodal Feature Fusion](https://ieeexplore.ieee.org/document/10058603/), TMM 2023
+
+[Unimodal and Crossmodal Refinement Network for Multimodal Sequence Fusion](https://aclanthology.org/2021.emnlp-main.720.pdf), EMNLP 2021, [[code]](https://github.com/Redaimao/UCRN)
+
 [Attention Bottlenecks for Multimodal Fusion](https://arxiv.org/pdf/2107.00135), ArXiv 2021
 
 [Contrastive Multimodal Fusion with TupleInfoNCE](https://arxiv.org/abs/2107.02575), ArXiv 2021
